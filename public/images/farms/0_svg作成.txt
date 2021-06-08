@@ -1,0 +1,7 @@
+https://vectr.com/
+
+サイズ：186px*179px
+
+token：87px*87px
+quoteToken：58px*58px　58px*58px
+Ellipse：37px*37px　57px*57px　#cccccc
