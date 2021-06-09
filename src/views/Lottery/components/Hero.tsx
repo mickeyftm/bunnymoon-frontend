@@ -66,7 +66,7 @@ const Hero = () => {
             bold
             mt={20}
             external
-            href="https://voting.bunnymoon.info/#/pancake/proposal/QmU8pcbmBrfbfVQXMMxmkExDq3mYq4s5cbBuFe6uCZzdmX"
+            href="https://bunnymoonfarm.web.app/#/pancake/proposal/QmU8pcbmBrfbfVQXMMxmkExDq3mYq4s5cbBuFe6uCZzdmX"
           >
             {t('Learn more')}
           </LinkExternal> */}

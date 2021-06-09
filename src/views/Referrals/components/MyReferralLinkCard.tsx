@@ -13,7 +13,7 @@ const MyReferralLinkCard = () => {
   const { t } = useTranslation()
   const { account } = useWeb3React()
 
-  const domain = "https://bunnymoon.info/?ref="
+  const domain = "https://bunnymoonfarm.web.app/?ref="
   const referralLink = domain + account
   return (
     <StyledLotteryCard>
