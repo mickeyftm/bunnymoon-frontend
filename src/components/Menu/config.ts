@@ -35,6 +35,10 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
+        label: 'Official',
+        href: 'https://www.bunnymoon.info',
+      },
+      {
         label: 'Github',
         href: 'https://github.com/bunnymoondev',
       },
