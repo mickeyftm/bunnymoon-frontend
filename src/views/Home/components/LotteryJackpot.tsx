@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@bunnymoon-libs/uikit'
+import { Text } from '@pancakeswap-libs/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const LotteryJackpot = () => {

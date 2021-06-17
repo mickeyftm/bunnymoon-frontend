@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { BaseLayout } from '@bunnymoon-libs/uikit'
+import { BaseLayout } from '@pancakeswap-libs/uikit'
 import ClaimPrizesCard from './components/ClaimPrizesCard'
 
 const Cards = styled(BaseLayout)`

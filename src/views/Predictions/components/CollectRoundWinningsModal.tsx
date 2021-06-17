@@ -15,7 +15,7 @@ import {
   Box,
   LinkExternal,
   ModalCloseButton,
-} from '@bunnymoon-libs/uikit'
+} from '@pancakeswap-libs/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { usePriceBnbBusd } from 'state/hooks'
 import { useTranslation } from 'contexts/Localization'

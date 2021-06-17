@@ -1221,7 +1221,7 @@
     "@web3-react/types" "^6.0.7"
     tiny-warning "^1.0.3"
 
-"@bunnymoon-libs/uikit@../bunnymoon-toolkit/packages/bunnymoon-uikit":
+"@pancakeswap-libs/uikit@../bunnymoon-toolkit/packages/bunnymoon-uikit":
   version "1.0.0"
   dependencies:
     "@popperjs/core" "^2.9.2"

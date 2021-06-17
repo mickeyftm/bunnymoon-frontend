@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card } from '@bunnymoon-libs/uikit'
+import { Card } from '@pancakeswap-libs/uikit'
 
 const StyledCard = styled(Card)<{ isStaking?: boolean; isFinished?: boolean }>`
   max-width: 352px;

@@ -1,4 +1,4 @@
-import { Button, Card, CardBody, CardFooter, Text } from '@bunnymoon-libs/uikit'
+import { Button, Card, CardBody, CardFooter, Text } from '@pancakeswap-libs/uikit'
 import React from 'react'
 import styled from 'styled-components'
 import IfoLayout from './components/IfoLayout'

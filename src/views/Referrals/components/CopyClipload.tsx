@@ -1,4 +1,4 @@
-import { CopyIcon, Text } from "@bunnymoon-libs/uikit";
+import { CopyIcon, Text } from "@pancakeswap-libs/uikit";
 import React, { useState } from "react";
 import styled from "styled-components";
 

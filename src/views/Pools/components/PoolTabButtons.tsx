@@ -9,7 +9,7 @@ import {
   Flex,
   NotificationDot,
 
-} from '@bunnymoon-libs/uikit'
+} from '@pancakeswap-libs/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Card, CardBody, Text} from '@bunnymoon-libs/uikit'
+import { Heading, Card, CardBody, Text} from '@pancakeswap-libs/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useGetReferralInfo } from 'state/hooks'
 

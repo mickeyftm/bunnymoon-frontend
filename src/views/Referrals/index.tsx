@@ -1,4 +1,4 @@
-import { BaseLayout, Flex, Heading } from '@bunnymoon-libs/uikit'
+import { BaseLayout, Flex, Heading } from '@pancakeswap-libs/uikit'
 import { useWeb3React } from '@web3-react/core'
 import Page from 'components/layout/Page'
 import PageHeader from 'components/PageHeader'

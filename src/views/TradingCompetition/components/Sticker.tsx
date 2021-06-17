@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex } from '@bunnymoon-libs/uikit'
+import { Flex } from '@pancakeswap-libs/uikit'
 
 interface StickerProps {
   backgroundColor?: string

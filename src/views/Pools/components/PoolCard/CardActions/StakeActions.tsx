@@ -9,7 +9,7 @@ import {
   Heading,
   useModal,
   Skeleton,
-} from '@bunnymoon-libs/uikit'
+} from '@pancakeswap-libs/uikit'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from 'contexts/Localization'
 import { getBalanceNumber, formatNumber, getDecimalAmount } from 'utils/formatBalance'

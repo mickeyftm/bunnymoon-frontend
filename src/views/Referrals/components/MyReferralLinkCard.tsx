@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Card, CardBody, Flex} from '@bunnymoon-libs/uikit'
+import { Heading, Card, CardBody, Flex} from '@pancakeswap-libs/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useWeb3React } from '@web3-react/core'
 import CopyToClipboard from './CopyClipload'

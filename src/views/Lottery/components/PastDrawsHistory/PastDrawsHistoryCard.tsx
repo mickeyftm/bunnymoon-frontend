@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Heading, Card, CardBody, Text } from '@bunnymoon-libs/uikit'
+import { Heading, Card, CardBody, Text } from '@pancakeswap-libs/uikit'
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
 import Select, { OptionProps } from 'components/Select/Select'

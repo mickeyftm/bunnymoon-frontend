@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react'
-import { Input } from '@bunnymoon-libs/uikit'
+import { Input } from '@pancakeswap-libs/uikit'
 import styled from 'styled-components'
 import debounce from 'lodash/debounce'
 
