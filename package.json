@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
-    "@bunnymoon-libs/uikit": "mickeyftm/bunnymoon-uikit",
+    "@bunnymoon-libs/uikit": "https://github.com/mickeyftm/bunnymoon-uikit",
     "@ethersproject/abi": "^5.0.7",
     "@reduxjs/toolkit": "^1.5.0",
     "@types/react": "^17.0.2",
